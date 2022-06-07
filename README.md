@@ -5,6 +5,7 @@
 - 🔭 Estou buscando oportunidade como Dev Front end ou back end...
 - 🌱Estou estudando full stack na Generetion Brasil, e Go-It..
 - 😄 Pronouns:Ele/Dele..
+<a><img align="center" alt="Jair-Js" height="300" width="1000" src="https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif"></a>
 <div align="center">
   <a href="https://github.com/JairSiqueiraJr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JairSiqueiraJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -29,7 +30,6 @@
   <a href = "mailto:juniorwin67@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jair-siqueira-19b56721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <a href= target="_blank"><img src="https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif" target="_blank"></a>
 </div>
  
   
