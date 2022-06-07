@@ -8,8 +8,8 @@
 <a><img align="center" alt="Jair-Js" height="300" width="1000" src="https://i.pinimg.com/originals/8a/e8/26/8ae826dba6a224dba3e49bf045583254.gif"></a>
 <div align="center">
   <a href="https://github.com/JairSiqueiraJr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JairSiqueiraJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairSiqueiraJr&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JairSiqueiraJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairSiqueiraJr&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Jair-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
