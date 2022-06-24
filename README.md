@@ -18,7 +18,10 @@
   <img align="center" alt="Jair-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jair-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jair-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+  <img align="center" alt="Jair-mysql" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <img align="center" alt="Jair-figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Jair-GIT" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+ 
 </div>
   
   ##
