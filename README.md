@@ -14,11 +14,7 @@ Possuo conhecimentos em Python, JavaScript e SQL, com foco crescente em backend,
 Backend & Data Engineer em formação | Python • SQL • Modelagem de Dados | Criador do ClickTech (Sistema de Help Desk)
 
 <a><img align="center" alt="Jair-Js" height="300" width="800" src="https://i.imgur.com/9udC5iT.gif"></a>
-<div align="center">
-  <a href="https://github.com/JairSiqueiraJr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JairSiqueiraJr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairSiqueiraJr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Jair-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jair-Ts" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor)">
